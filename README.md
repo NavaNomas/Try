@@ -48,3 +48,35 @@ Sentencia C-732 de 2008: Reitera que la existencia del sindicato no puede estar 
 Sentencia C-465 de 2008: Refuerza la autonomía sindical, señalando que el Ministerio no puede negar el registro basándose en criterios de "conveniencia" o juicios de valor sobre los objetivos del sindicato  
 
 Artículo 365. Registro sindical.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. Estructura y Compensación (El "Cuánto ganan")
+Escala Salarial Vigente: Solicita los rangos mínimos y máximos de remuneración por niveles o categorías de cargos en toda la empresa.
+Política de Incrementos: Pide el documento donde consten los criterios que usa la empresa para ajustar salarios anualmente (IPC, mérito, antigüedad, etc.).
+Bonificaciones y Comisiones: Solicita el reglamento o manual que define cómo se calculan los bonos de éxito, productividad o cumplimiento de metas.
+2. Situación Financiera (El "Cuánto tienen")
+Estados Financieros Consolidados: Solicita copia del Balance General y el Estado de Resultados (P&G) del último año fiscal. Es información pública que deben tener a disposición.
+Inversiones y Crecimiento: Pregunta por el informe de inversiones realizadas en infraestructura o tecnología en los últimos dos años (esto demuestra capacidad económica).
+3. Carga Laboral y Contratación (El "Cómo trabajamos")
+Manual de Funciones y Competencias: Copia actualizada de las funciones de tu cargo y los cargos inmediatamente superiores para justificar nivelaciones.
+Estadísticas de Contratación: Número total de empleados directos versus trabajadores bajo modalidades externas (temporales, outsourcing, prestación de servicios). Esto sirve para pedir "formalización laboral".
+Reporte de Horas Extras: Promedio de horas extras y recargos nocturnos/dominicales pagados en tu área en el último año (demuestra sobrecarga de trabajo).
+4. Bienestar y Seguridad (El "Qué más nos dan")
+Reglamento Interno de Trabajo (RIT): Una copia completa y actualizada (es obligatorio que todo trabajador la tenga).
+Ejecución del Plan de Capacitación: Informe de cuántas horas de formación y qué presupuesto se invirtió en el personal el año pasado.
+Beneficios Extralegales: Listado de auxilios actuales (educación, salud, vivienda, lentes) que la empresa otorga, aunque sea a un grupo pequeño.
+Informe de COPASST: Resumen de las recomendaciones de seguridad y salud en el trabajo que la empresa ha implementado o tiene pendientes.
+5. Estándares de Mercado (El "Comparativo")
+Estudios de Benchmarking: Pregunta si la empresa ha participado en encuestas salariales (como las de firmas consultoras) y qué lugar ocupa la empresa respecto al mercado en tu sector.
